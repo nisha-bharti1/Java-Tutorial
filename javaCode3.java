@@ -9,7 +9,7 @@ import java.util.*;
         int n1 = sc.nextInt(); // take a input form console and store it in n1 variable
         int n2 = sc.nextInt();
 
-        int sum = n1 + n2;
+        int sum = n1 + n2;  
 
         System.out.print(n1 + " + " + n2 + " = " + sum); // 3 + 7 = 10
     }
